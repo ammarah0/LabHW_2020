@@ -1,2 +1,2 @@
 # Lab2-HW2
-Note: DataVisualization files(.html) can work better when download.
+Note: DataVisualization files(.html) can work better when downloaded.
